@@ -17,11 +17,11 @@
     <string name="srceng_launcher_game_path">游戏资源路径</string>
     <string name="srceng_launcher_set_game_path">选择游戏资源路径</string>
     <string name="srceng_launcher_game_menu">选择游戏</string>
-    <string name="srceng_launcher_touch_controls">显示屏幕上的按键</string>
+    <string name="srceng_launcher_touch_controls">显示游戏内的按键图案</string>
     <string name="srceng_launcher_volume_buttons">使用音量键射击</string>
-    <string name="srceng_launcher_volume_buttons_desc">音量 + 键现已绑定至 L_TRIGGER（主射击键），音量 - 键现已绑定至 R_TRIGGER（副射击键）！！！</string>
+    <string name="srceng_launcher_volume_buttons_desc">音量 + 键现已绑定至 L_TRIGGER（主射击键），音量 - 键现已绑定至 R_TRIGGER（副射击键）！</string>
     <string name="srceng_launcher_immersive_mode">沉浸模式</string>
-    <string name="srceng_launcher_screen_resolution">固定屏幕分辨率</string>
+    <string name="srceng_launcher_screen_resolution">修改游戏内分辨率</string>
 
     <string name="srceng_game_hl2">半条命 2</string>
     <string name="srceng_game_hl2ep1">半条命:2第一章</string>
@@ -29,4 +29,4 @@
     <string name="srceng_game_portal">传送门</string>
 
     <string name="srceng_dir_choice_btn">选择当前目录为游戏资源路径</string>
-</resources>
+</resources> //这是测试？
